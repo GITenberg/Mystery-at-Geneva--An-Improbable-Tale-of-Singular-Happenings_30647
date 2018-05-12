@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3869
     wikipedia: http://en.wikipedia.org/wiki/Rose_Macaulay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30647#Mystery-at-Geneva--An-Improbable-Tale-of-Singular-Happenings
 gutenberg_issued: '2009-12-11'
 gutenberg_type: Text
 identifiers:
